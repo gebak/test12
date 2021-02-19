@@ -1,0 +1,52 @@
+body {
+  font-family: bipolar, sans-serif;
+  background: #ececec;
+}
+
+a {
+  color: rgba(0, 0, 0, 0.4);
+  text-decoration:none;
+}
+
+a:hover{
+color:black;
+opacity: 80%;
+}
+
+.logo {
+  width: 195px;
+}
+
+.nav {
+  font-size: 16px;
+  margin-left: 285px;
+  
+}
+
+.nav a {
+  margin-right: 60px;
+}
+
+.header {
+  display: flex;
+  width: 1248px;
+  margin: auto;
+  margin-top: 35px;
+  margin-bottom: 100px;
+}
+
+.content {
+  margin-top: 64px;
+  width: 929px;
+  margin: auto;
+}
+.content h1{
+  font-family: "spectral";
+  font-size:24px;
+
+}
+.link-active{
+  color:black;
+  opacity: 80%;
+  text-decoration:underline;
+}
